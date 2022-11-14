@@ -77,6 +77,44 @@
         "url": "https://www.crunchyroll.com/pt-br/series/G6P8PXJW6/toradora",
         "thumb": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/1e5af6bba8e2ce272fc6095dbc481cda.jpeg"
       }
+    ],
+
+    "esportes": [
+        {
+            "title": "Aoashi",
+            "url": "https://www.crunchyroll.com/pt-br/series/G4PH0WX5J/aoashi",
+            "thumb": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/32c849a8c23183707b43b8e0b8ae4a5b.jpeg"
+        },
+        {
+            "title": "Blue Lock",
+            "url": "https://www.crunchyroll.com/pt-br/series/G4PH0WEKE/bluelock",
+            "thumb": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/d46bbba875a6d0ffef9d3025fb55dd5f.jpeg"
+        },
+        {
+            "title": "Haikyu!!",
+            "url": "https://www.crunchyroll.com/pt-br/series/GY8VM8MWY/haikyu",
+            "thumb": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/a39c98af004dd546714bbc041cf36026.jpeg"
+        },
+        {
+            "title": "Kuroko no Basket",
+            "url": "https://www.crunchyroll.com/pt-br/series/G62P48X56/kurokos-basketball",
+            "thumb": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/2aebbcb9bd40255732bd026ef54f7d3b.jpeg"
+        },
+        {
+            "title": "Megalobox",
+            "url": "https://www.crunchyroll.com/pt-br/series/GR4PVJ1WY/megalobox",
+            "thumb": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/f2cb36cceb6ee33fa963c85b13d2298e.jpeg"
+        },
+        {
+          "title": "The Prince of Tennis",
+          "url": "https://www.crunchyroll.com/pt-br/series/G5PHNMWWN/the-prince-of-tennis-ii-u-17-world-cup",
+          "thumb": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/3a084c93f7e062b3ce211a426474b17d.jpeg"
+        },
+        {
+            "title": "Super Campeões!",
+        "url": "https://www.crunchyroll.com/pt-br/series/GZJH3D7G9/captain-tsubasa",
+        "thumb": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/f96358031eb52f10ec7afce251258e16.jpeg"
+      }
     ]
   }
 }
